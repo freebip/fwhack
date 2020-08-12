@@ -2,7 +2,7 @@
 
 original .bin file
 
-* Mili_chaohu.ft.latin
+* Mili_chaohu.fw.latin
 
 IDA 7.0 PRO file
 
